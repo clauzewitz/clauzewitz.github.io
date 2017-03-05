@@ -5,6 +5,10 @@ description: 인공지능 창작 레시피
 img: /img/portfolio/foodlab/foodlab_icon.png
 ---
 
+<div class="col three caption">
+	<a href="https://play.google.com/store/apps/details?id=com.onethefull.recipe" target="_blank"><i class="fa fa-android">다운로드</i></a>
+</div>
+
 국내 최초 인공지능 창작 레시피는 물론 사용자 포함 친구들의 데이터 분석 후 어울리는 음식까지 추천하여 주문&배달서비스와 식재료 및 음식 공유 플랫폼.
 
 
