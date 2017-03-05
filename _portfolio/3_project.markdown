@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 웰비
+title: Wellbee
 description: Android App
 img: /img/portfolio/wellbee/wellbee_icon.png
 ---

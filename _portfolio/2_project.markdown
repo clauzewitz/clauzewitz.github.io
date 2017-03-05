@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 푸드랩
+title: Foodlab
 description: Android App
 img: /img/portfolio/foodlab/foodlab_icon.png
 ---

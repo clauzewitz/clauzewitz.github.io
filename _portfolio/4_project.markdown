@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 웰비케어
+title: WellbeeCare
 description: Android & iOS App
 img: /img/portfolio/wellbeecare/wellbeecare_icon.png
 ---
