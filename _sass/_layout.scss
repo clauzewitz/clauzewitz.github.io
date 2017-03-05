@@ -214,6 +214,9 @@ overflow: hidden;
 // top: -5%;
 border-radius: 20%;
 }
+.thumbnail img::before {
+    padding-top: 100%;
+}
 .thumbnail a{
 float: left;
 position: relative;
