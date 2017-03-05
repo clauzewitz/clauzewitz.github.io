@@ -1,20 +1,19 @@
 ---
 layout: post
-title: 웰비
-description: 인공지능 사용자별 음식 추천
-img: /img/portfolio/wellbee/wellbee_1.png
+title: 푸드랩
+description: 인공지능 창작 레시피
+img: /img/portfolio/foodlab/foodlab_icon.png
 ---
 
-간편한 입력을 통하여 사용자 여러분의 식사 및 운동 등 라이프 스타일을 알려주시면, 인공지능 웰비가 여러 질병의 예측 및 건강관리 서비스.
+국내 최초 인공지능 창작 레시피는 물론 사용자 포함 친구들의 데이터 분석 후 어울리는 음식까지 추천하여 주문&배달서비스와 식재료 및 음식 공유 플랫폼.
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_1.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_2.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_3.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_4.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_5.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_6.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_7.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbee/wellbee_8.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/foodlab/foodlab_1.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/foodlab/foodlab_2.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/foodlab/foodlab_3.png" alt="" title="example image"/>
+</div>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/foodlab/foodlab_4.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/foodlab/foodlab_5.png" alt="" title="example image"/>
 </div>
