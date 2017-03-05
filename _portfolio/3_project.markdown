@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 웰비
-description: 인공지능 사용자별 음식 추천
+description: Android App
 img: /img/portfolio/wellbee/wellbee_icon.png
 ---
 

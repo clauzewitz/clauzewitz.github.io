@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 웰비케어
-description: 인공지능 질병의 예측 및 건강관리
+description: Android & iOS App
 img: /img/portfolio/wellbeecare/wellbeecare_icon.png
 ---
 

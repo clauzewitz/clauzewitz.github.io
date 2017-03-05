@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 푸드랩
-description: 인공지능 창작 레시피
+description: Android App
 img: /img/portfolio/foodlab/foodlab_icon.png
 ---
 

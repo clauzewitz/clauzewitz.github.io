@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MCM M5
-description: MCM Catalog
+description: Android & iOS App
 img: /img/portfolio/mcm/mcm_icon.png
 ---
 
