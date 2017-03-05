@@ -7,23 +7,27 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.png">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+#### 경력사항
+2013.7 ~ 2015.12 티라에스앤씨 근무
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+2015.12 ~ 2016.2 비그토리 창업
+
+2016.4 ~ 2017.1 원더풀플랫폼 근무
+
+2017.2 ~ 마이리얼플랜 근무
+
+#### 보유기술
+JAVA(spring-framework), iOS(objective-c), Android, NodeJS
 
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:cid@myrealplan.co.kr"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/clauzewitz" target="_blank"><i class="fa fa-github-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
 </div>
 
