@@ -236,11 +236,12 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 10%;
+padding: 20px;
 text-align: center;
-word-break: break-word;
+word-break: break-all;
 @include media-query($on-palm) {
 display: block;
+padding: 10%;
 p {
 display: none;
         }
