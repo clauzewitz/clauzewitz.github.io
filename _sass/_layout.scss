@@ -241,7 +241,7 @@ text-align: center;
 word-break: break-word;
 @include media-query($on-palm) {
 display: block;
-.post-description {
+p {
 display: none;
         }
 	}
