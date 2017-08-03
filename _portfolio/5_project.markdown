@@ -2,7 +2,7 @@
 layout: post
 title: My Real Plan
 description: Web
-img: /img/portfolio/myrealplan/myrealplan_icon.png
+img: /img/portfolio/myrealplan/myrealplan_icon.jpg
 ---
 
 <div class="col three caption">
