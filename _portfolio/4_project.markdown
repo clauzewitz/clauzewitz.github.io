@@ -18,12 +18,12 @@ img: /img/portfolio/wellbeecare/wellbeecare_icon.png
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_1.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_2.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_3.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_1.png" alt="" title="screenshot1 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_2.png" alt="" title="screenshot2 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_3.png" alt="" title="screenshot3 image"/>
 </div>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_4.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_5.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_6.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_4.png" alt="" title="screenshot4 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_5.png" alt="" title="screenshot5 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/wellbeecare/wellbeecare_6.png" alt="" title="screenshot6 image"/>
 </div>
