@@ -26,7 +26,7 @@ JAVA(spring-framework), iOS(objective-c), Android, NodeJS
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:cid@myrealplan.co.kr"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:jun@joycity.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/clauzewitz" target="_blank"><i class="fa fa-github-square"></i></a>
 </span>
 
