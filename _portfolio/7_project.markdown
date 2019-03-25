@@ -15,6 +15,6 @@ img: /img/portfolio/gandcday/gandcday_icon.jpg
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/gandcday/gandcday_1.png" alt="" title="screenshot1 image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/gandcday/gandcday_2.png" alt="" title="screenshot2 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/gandcday/gandcday_1.jpeg" alt="" title="screenshot1 image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/gandcday/gandcday_2.jpeg" alt="" title="screenshot2 image"/>
 </div>
