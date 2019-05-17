@@ -6,9 +6,7 @@ img: /img/portfolio/gandcday/gandcday_icon.jpg
 ---
 
 <div class="col three caption">
-	<a href="https://itunes.apple.com/kr/app/id1080578364?mt=8" target="_blank">
-		<img class="market_img" src="{{ site.baseurl }}/img/market_apple.png"/>
-	</a>
+	<a href="https://itunes.apple.com/kr/app/id1080578364?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2016-02-18&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 </div>
 
 날씨 알림 iOS Application
