@@ -7,7 +7,7 @@ img: /img/portfolio/wellbee/wellbee_icon.png
 
 <div class="col three caption">
 	<a href='https://play.google.com/store/apps/details?id=com.onethefull.wellbee&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-		<img alt='Get it on Google Play' src='https://play.google.com/intl/ko/badges/images/generic/en_badge_web_generic.png'/>
+		<img alt='Get it on Google Play' src='https://play.google.com/intl/ko/badges/images/generic/en_badge_web_generic.png' style='width:155px;height:60px;'/>
 	</a>
 </div>
 
