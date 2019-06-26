@@ -9,7 +9,7 @@ img: /img/portfolio/mcm/mcm_icon.png
 	<a href='https://play.google.com/store/apps/details?id=com.mcm.app.hybrid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
 		<img alt='Get it on Google Play' src='https://play.google.com/intl/ko/badges/images/generic/en_badge_web_generic.png' style='width:155px;height:60px;'/>
 	</a>
-	<a href="https://itunes.apple.com/kr/app/id983951043?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-09-23&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;margin:10px;"></a>
+	<a href="https://apps.apple.com/kr/app/id983951043?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-09-23&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;margin:10px;"></a>
 </div>
 
 MCM M5 서비스 어플리케이션.

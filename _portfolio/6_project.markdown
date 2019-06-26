@@ -6,7 +6,7 @@ img: /img/portfolio/mypi/mypi_icon.jpg
 ---
 
 <div class="col three caption">
-	<a href="https://itunes.apple.com/kr/app/id1034771353?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-09-23&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;margin:10px;"></a>
+	<a href="https://apps.apple.com/kr/app/id1034771353?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-09-23&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;margin:10px;"></a>
 </div>
 
 루리웹 마이피 iOS Application
