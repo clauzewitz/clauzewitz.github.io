@@ -2,7 +2,7 @@
 layout: post
 title: MaskInfo
 description: Chatbot
-img: /img/portfolio/hyusik/hyusik_icon.jpg
+img: /img/portfolio/maskinfo/maskinfo_icon.jpg
 ---
 
 <div class="col three caption">
