@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyusik
-description: iOS App
+description: iOS App & Chatbot
 img: /img/portfolio/hyusik/hyusik_icon.jpg
 ---
 

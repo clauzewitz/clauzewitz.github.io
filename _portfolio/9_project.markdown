@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hyusik
-description: iOS App
+title: MaskInfo
+description: Chatbot
 img: /img/portfolio/hyusik/hyusik_icon.jpg
 ---
 
@@ -13,6 +13,8 @@ img: /img/portfolio/hyusik/hyusik_icon.jpg
 
 
 <div class="img_row">
+<!--
 	<img class="col one" src="{{ site.baseurl }}/img/portfolio/hyusik/hyusik_1.jpeg" alt="" title="screenshot1 image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/portfolio/hyusik/hyusik_2.jpeg" alt="" title="screenshot2 image"/>
+-->
 </div>
