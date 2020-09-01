@@ -16,7 +16,9 @@ permalink: /about/
 
 2017.2 ~ 2018.1 (주)아이지넷 근무
 
-2018.5 ~ (주)조이시티 근무
+2018.5 ~ 2020.8 (주)조이시티 근무
+
+2020.8 ~ 컬리 근무
 
 #### 보유기술
 JAVA(spring-framework), iOS(objective-c), Android, NodeJS
