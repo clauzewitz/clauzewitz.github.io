@@ -21,7 +21,7 @@ permalink: /about/
 2020.8 ~ 컬리 근무
 
 #### 보유기술
-JAVA(spring-framework), iOS(objective-c), Android, NodeJS
+JAVA(spring-framework), Kotlin, iOS(objective-c), Android, React, Angular
 
 
 <br/>
